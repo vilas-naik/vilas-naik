@@ -26,10 +26,15 @@ Building scalable web applications with React, Node.js and PostgreSQL.
 
 ### Socials
 
-<div style="display:flex;"> 
-  <p align="left"> <a href="https://www.linkedin.com/in/vilas-naik-2a8604257/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vilas-naik-2a8604257/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" style="margin-right: 8px;" />
+    </picture>
+  </a>
 
-<p align="left"  style="margin-right: 8px;>
   <a href="https://leetcode.com/u/vilas_naik_/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/leetcode/white" />
@@ -38,4 +43,3 @@ Building scalable web applications with React, Node.js and PostgreSQL.
     </picture>
   </a>
 </p>
-</div>
